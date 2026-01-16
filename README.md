@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 ## Linked List
 |  |
 | ------- |
@@ -55,4 +56,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
