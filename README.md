@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0263-ugly-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0326-power-of-three) |
 ## Linked List
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0326-power-of-three) |
 ## Breadth-First Search
 |  |
 | ------- |
