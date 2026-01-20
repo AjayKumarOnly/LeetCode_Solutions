@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
