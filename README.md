@@ -115,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
