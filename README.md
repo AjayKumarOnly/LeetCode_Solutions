@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0322-coin-change) |
+| [0509-fibonacci-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [3516-find-closest-person](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3516-find-closest-person) |
 ## Linked List
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
