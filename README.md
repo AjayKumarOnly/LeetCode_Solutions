@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0697-degree-of-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0912-sort-an-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3516-find-closest-person](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3516-find-closest-person) |
 ## Linked List
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
