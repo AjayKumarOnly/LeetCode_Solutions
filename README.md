@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3516-find-closest-person](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3516-find-closest-person) |
