@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0917-reverse-only-letters](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0917-reverse-only-letters) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0917-reverse-only-letters](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0917-reverse-only-letters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
