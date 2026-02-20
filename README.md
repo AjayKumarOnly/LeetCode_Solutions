@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0697-degree-of-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0912-sort-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0561-array-partition) |
+| [0976-largest-perimeter-triangle](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2027-minimum-moves-to-convert-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2027-minimum-moves-to-convert-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [3516-find-closest-person](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3516-find-closest-person) |
 ## Linked List
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0912-sort-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
