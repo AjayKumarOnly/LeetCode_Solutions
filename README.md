@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0322-coin-change](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0525-contiguous-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0697-degree-of-an-array) |
@@ -171,12 +172,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0525-contiguous-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [0697-degree-of-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0697-degree-of-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Divide and Conquer
