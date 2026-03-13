@@ -1,21 +1,19 @@
 class Solution {
     public int compress(char[] chars) {
-        String code="";
-        int run = 0; 
-        char ptr = chars[0];
-        for(char ch : chars){
-            if(ptr == ch) run++;
-            else{
-                code += ptr + (run > 1 ? ""+run: "");
-                run = 1;
-                ptr = ch;
+        int index = 0 , cnt = 0;
+        for(int i = 0; i < chars.length; i++){
+            cnt++;
+            if(i+1 == chars.length || chars[i] != chars[i+1]){
+                chars[index++] = chars[i];
+                if(cnt != 1){
+                    for(char c : Integer.toString(cnt).toCharArray()){
+                         chars[index++] = c;
+                    }
+                }
+                 cnt = 0;
             }
+           
         }
-        code += ptr + (run > 1 ? ""+run: "");
-        for(int i = 0; i < code.length();i++){
-            chars[i] = code.charAt(i);
-        }
-        return code.length();
-
+        return index;
     }
 }
