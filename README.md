@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2027-minimum-moves-to-convert-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2027-minimum-moves-to-convert-string) |
+| [3713-longest-balanced-substring-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Simulation
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0697-degree-of-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3713-longest-balanced-substring-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3713-longest-balanced-substring-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1952-three-divisors) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Memoization
 |  |
 | ------- |
