@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0525-contiguous-array) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0561-array-partition) |
