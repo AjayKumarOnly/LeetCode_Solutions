@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0697-degree-of-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1200-minimum-absolute-difference) |
