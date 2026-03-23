@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0263-ugly-number) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Number Theory
 |  |
