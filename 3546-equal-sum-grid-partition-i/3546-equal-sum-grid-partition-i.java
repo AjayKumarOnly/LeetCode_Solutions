@@ -2,36 +2,28 @@ class Solution {
     public boolean canPartitionGrid(int[][] grid) {
         int n = grid.length;
         int m = grid[0].length;
-
-        long totalSum = 0;
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                totalSum += grid[i][j];
+        long[] rowSum = new long[n];
+        long[] colSum = new long[m];
+        long total = 0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                total += grid[i][j];
             }
         }
-        if (totalSum % 2 != 0) return false;
-        long rowPrefix = 0;
-        for (int i = 0; i < n; i++) {
-            long rowSum = 0;
-            for (int j = 0; j < m; j++) {
-                rowSum += grid[i][j];
+        long row = 0;
+        for(int i =0; i<n;i++){ 
+            for(int j=0;j<m;j++){
+                row+=grid[i][j];
             }
-            rowPrefix += rowSum;
-
-            if (rowPrefix == totalSum / 2) return true;
+            if(row * 2 == total) return true;
         }
-        long colPrefix = 0;
-        for (int j = 0; j < m; j++) {
-            long colSum = 0;
-            for (int i = 0; i < n; i++) {
-                colSum += grid[i][j];
+         long col = 0;
+        for(int i =0; i<m;i++){ 
+            for(int j=0;j<n;j++){
+                col+=grid[j][i];
             }
-
-            colPrefix += colSum;
-
-            if (colPrefix == totalSum / 2) return true;
+            if(col * 2 == total) return true;
         }
-
         return false;
     }
 }
