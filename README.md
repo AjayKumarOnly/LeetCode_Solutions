@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0577-employee-bonus) |
+| [0595-big-countries](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0619-biggest-single-number) |
 ## Sliding Window
 |  |
