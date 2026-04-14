@@ -1,25 +1,17 @@
 class Solution {
     public List<Integer> targetIndices(int[] nums, int target) {
-        Arrays.sort(nums);
-        List<Integer> res = new ArrayList<>();
-        int start = binarySearch(nums,target);
-        int end = binarySearch(nums,target+1);
-
-        for (int i = start; i < end; i++) {
-            res.add(i);
+        int less = 0, equal = 0;
+         ArrayList<Integer> list = new ArrayList<>();
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] < target)
+                less++;
+            else if (nums[i] == target)
+                equal++;
         }
 
-        return res;
-
-    }
-    private static int binarySearch(int[] nums,int target){
-        int left = 0, right = nums.length;
-        while(left < right){
-            int mid = (left+right)/2;
-            if(nums[mid] < target){
-                left = mid +1;
-            }else right = mid;
+        for (int i = less; i < less + equal; i++) {
+            list.add(i);
         }
-        return left;
+        return list;
     }
 }
