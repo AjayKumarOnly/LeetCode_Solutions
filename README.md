@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2248-intersection-of-multiple-arrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2248-intersection-of-multiple-arrays) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2248-intersection-of-multiple-arrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2248-intersection-of-multiple-arrays) |
