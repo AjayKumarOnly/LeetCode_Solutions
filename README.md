@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1075-project-employees-i) |
+| [1148-article-views-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1148-article-views-i) |
 ## Sliding Window
 |  |
 | ------- |
