@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0917-reverse-only-letters](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
