@@ -3,8 +3,6 @@ class Solution {
         int sum = 0 , digit = 0;
         for(int i : nums){
             sum += i;
-        }
-        for(int i : nums){
             if(i%10 != i){
                 while(i > 0){
 
