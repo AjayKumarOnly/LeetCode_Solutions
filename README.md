@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 ## Breadth-First Search
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0415-add-strings) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## String Matching
 |  |
