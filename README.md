@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## String Matching
