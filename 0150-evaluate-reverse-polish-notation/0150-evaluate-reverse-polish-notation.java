@@ -21,7 +21,7 @@ class Solution {
                     stack.add(nums2/nums1);
                 }
                 default ->{
-                    stack.add( Integer.parseInt(i));
+                    stack.push( Integer.parseInt(i));
                 }
             }
         }
