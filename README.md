@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0155-min-stack) |
