@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1148-article-views-i) |
+| [1407-top-travellers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1407-top-travellers) |
 ## Sliding Window
 |  |
 | ------- |
