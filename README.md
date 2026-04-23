@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
+| [0844-backspace-string-compare](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0917-reverse-only-letters) |
 | [1143-longest-common-subsequence](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3379-transformed-array) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0394-decode-string) |
+| [0844-backspace-string-compare](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## String Matching
 |  |
