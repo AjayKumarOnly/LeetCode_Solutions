@@ -8,8 +8,8 @@ class Solution {
             while(!st.isEmpty() && temperatures[i] >= temperatures[st.peek()]){
                 st.pop();
             }
-            if(!st.isEmpty()) res[i] = st.peek()-i;
-            st.push(i);
+            if(!st.isEmpty()) res[i] = st.peek()-i; // subract index from stack and the i;
+            st.push(i); // adding the index
         }
         return res;
     }
