@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-minimum-moves-to-convert-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2027-minimum-moves-to-convert-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2248-intersection-of-multiple-arrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2248-intersection-of-multiple-arrays) |
+| [2833-furthest-point-from-origin](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
