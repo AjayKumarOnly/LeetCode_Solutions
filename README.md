@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0507-perfect-number) |
