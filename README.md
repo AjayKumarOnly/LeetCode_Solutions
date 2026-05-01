@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
