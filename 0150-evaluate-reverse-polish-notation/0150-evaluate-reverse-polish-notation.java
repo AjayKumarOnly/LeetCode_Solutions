@@ -10,7 +10,7 @@ class Solution {
                 case "-" -> {
                     nums1 = stack.pop();
                     nums2 = stack.pop();
-                    stack.add(nums2-nums1);
+                    stack.push(nums2-nums1);
                 }
                 case "*" ->{
                     stack.add(stack.pop()*stack.pop());
