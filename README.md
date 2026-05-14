@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2784-check-if-array-is-good) |
 | [2942-find-words-containing-character](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2942-find-words-containing-character) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2248-intersection-of-multiple-arrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2248-intersection-of-multiple-arrays) |
+| [2784-check-if-array-is-good](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3713-longest-balanced-substring-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2248-intersection-of-multiple-arrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2248-intersection-of-multiple-arrays) |
+| [2784-check-if-array-is-good](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3634-minimum-removals-to-balance-array) |
