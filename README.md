@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0190-reverse-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1009-complement-of-base-10-integer) |
@@ -613,4 +615,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
