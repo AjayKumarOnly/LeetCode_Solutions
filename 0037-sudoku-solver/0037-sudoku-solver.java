@@ -33,3 +33,6 @@ class Solution {
         return true;
     }
 }
+// 9^E
+
+//E-> no of empty cell '.';
