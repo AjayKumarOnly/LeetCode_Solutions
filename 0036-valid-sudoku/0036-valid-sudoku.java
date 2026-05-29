@@ -6,7 +6,7 @@ class Solution {
                 if(board[i][j] != '.'){
                     String row = board[i][j] + "row" + i;
                     String col = board[i][j] + "col" + j;
-                    String box = board[i][j] + "box" + (i/3) + "and" + (j/3);
+                    String box = board[i][j] + "box" + (i/3) + "and" + (j/3); //  ' / 3' used to find which box the num presents
 
                     mpp.put(row,mpp.getOrDefault(row,0)+1);
                     mpp.put(col,mpp.getOrDefault(col,0)+1);
