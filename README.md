@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2942-find-words-containing-character) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2652-sum-multiples) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3516-find-closest-person](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3516-find-closest-person) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
