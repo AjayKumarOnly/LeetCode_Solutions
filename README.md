@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
