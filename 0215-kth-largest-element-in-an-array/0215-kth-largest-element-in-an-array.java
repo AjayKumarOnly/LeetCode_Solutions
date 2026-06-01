@@ -10,5 +10,5 @@ class Solution {
         return minHeap.peek();
     }
 }
-// TC O(N);
-// SP O(N);
+// TC O(log n);
+// SP O(K);
