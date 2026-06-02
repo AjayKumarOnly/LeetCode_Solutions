@@ -3,7 +3,7 @@ class WordFreqComparator implements Comparator<Map.Entry<String,Integer>>{
         if(a.getValue().equals(b.getValue())){
             return b.getKey().compareTo(a.getKey()); // higer lexicographical order 
         }
-        return a.getValue() - b.getValue(); // negative ->  no change ||  pos -> change || this is minHeap;
+        return a.getValue() - b.getValue(); // negative ->  no change ||  pos -> change(swap) || this is minHeap;
     }
 }
 class Solution {
