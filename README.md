@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0704-binary-search) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0658-find-k-closest-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0912-sort-an-array) |
@@ -471,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -507,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Merge Sort
