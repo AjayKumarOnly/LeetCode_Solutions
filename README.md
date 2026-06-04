@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0692-top-k-frequent-words) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3634-minimum-removals-to-balance-array) |
