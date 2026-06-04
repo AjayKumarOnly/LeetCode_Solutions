@@ -31,3 +31,5 @@ class Solution {
         return  true;
     }
 }
+// tc -> O(N + M)
+//sp -> O(1) due to constant space
