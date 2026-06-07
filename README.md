@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2942-find-words-containing-character](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2942-find-words-containing-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3340-check-balanced-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3340-check-balanced-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
