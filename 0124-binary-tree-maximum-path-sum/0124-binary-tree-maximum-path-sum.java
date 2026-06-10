@@ -29,3 +29,5 @@ class Solution {
         return root.val + Math.max(left , right);
     }
 }
+// tc -> O(N)
+// sc -> O(N)
