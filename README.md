@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0697-degree-of-an-array) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2574-left-and-right-sum-differences](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2574-left-and-right-sum-differences) |
