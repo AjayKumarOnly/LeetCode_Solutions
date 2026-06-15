@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2027-minimum-moves-to-convert-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2027-minimum-moves-to-convert-string) |
+| [2390-removing-stars-from-a-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2833-furthest-point-from-origin) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2390-removing-stars-from-a-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3379-transformed-array) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1544-make-the-string-great) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
 | ------- |
