@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2652-sum-multiples) |
