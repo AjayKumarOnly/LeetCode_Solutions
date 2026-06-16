@@ -5,18 +5,16 @@ class Solution {
 
         int longest = 0;
         for(int i : set){
-            int curr = 0;
+            int cnt = 0;
             if(!set.contains(i-1)){
-                int j =i;
-                while(set.contains(j)){
-                    j++;
+                int curr = i;
+                while(set.contains(curr)){
+                    cnt++;
                     curr++;
                 }
-             longest = Math.max(longest,curr);
+                longest = Math.max(longest,cnt);
             }
-           
         }
         return longest;
-        
     }
 }
