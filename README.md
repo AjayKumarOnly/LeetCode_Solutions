@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0976-largest-perimeter-triangle](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1952-three-divisors) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -833,4 +837,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
