@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2248-intersection-of-multiple-arrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2540-minimum-common-value](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2716-minimize-string-length) |
 | [2784-check-if-array-is-good](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2784-check-if-array-is-good) |
