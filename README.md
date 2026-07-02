@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0575-distribute-candies) |
+| [0622-design-circular-queue](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0682-baseball-game) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0622-design-circular-queue](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0705-design-hashset) |
 ## Randomized
 |  |
@@ -786,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0622-design-circular-queue) |
 ## Monotonic Queue
 |  |
 | ------- |
