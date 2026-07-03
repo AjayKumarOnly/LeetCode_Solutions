@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0542-01-matrix) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 ## Design
 |  |
 | ------- |
@@ -846,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
