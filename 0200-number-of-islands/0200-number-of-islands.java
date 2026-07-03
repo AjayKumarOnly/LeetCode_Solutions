@@ -14,6 +14,7 @@ class Solution {
         }
         return island;
     }
+    // O(N*M) TC
 
     private void dfs(int row, int col, char[][] grid) {
         int n = grid.length;
