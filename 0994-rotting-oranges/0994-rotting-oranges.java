@@ -4,8 +4,11 @@ class Solution {
         int time = 0 , fresh = 0;
         Queue<int[]> q = new LinkedList<>(); 
 
+        
         for(int i = 0; i < n ; i++){
             for(int j = 0 ; j  < m ; j++){
+
+                // adding rotten orange in queue with row , col , time
                 if(grid[i][j] == 2){
                     q.offer(new int[]{i,j,0});
                 }
@@ -16,6 +19,7 @@ class Solution {
         while(!q.isEmpty()){
             int[] curr = q.poll();
             int row = curr[0] , col = curr[1] , t = curr[2];
+        
             time = Math.max(time,t);
 
             int[] dx = {-1,0,1,0};
