@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3379-transformed-array) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
 | ------- |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
