@@ -11,7 +11,7 @@ class Solution {
             result.add(curr);
             return;
         }
-        String letter = map[digits.charAt(curr.length() )-'0'];
+        String letter = map[digits.charAt(curr.length())-'0'];
         for(char c : letter.toCharArray()){
             generate(digits,curr+c,map,result);
         }
