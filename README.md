@@ -791,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0622-design-circular-queue](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0705-design-hashset) |
+| [0933-number-of-recent-calls](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0933-number-of-recent-calls) |
 ## Randomized
 |  |
 | ------- |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -927,4 +929,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0133-clone-graph) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
