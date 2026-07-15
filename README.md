@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3516-find-closest-person](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3516-find-closest-person) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -776,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1952-three-divisors) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Trie
 |  |
 | ------- |
