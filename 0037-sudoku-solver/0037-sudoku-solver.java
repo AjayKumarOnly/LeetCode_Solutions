@@ -36,3 +36,5 @@ class Solution {
 // 9^E
 
 //E-> no of empty cell '.';
+
+//O(2^n * n)
