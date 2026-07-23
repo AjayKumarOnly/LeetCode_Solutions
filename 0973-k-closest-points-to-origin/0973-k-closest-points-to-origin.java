@@ -9,9 +9,9 @@ class Triplet{
 }
 class TripletComparator implements Comparator<Triplet>{
     public int compare(Triplet x , Triplet y){
-        if(x.root > y.root) return 1;
-        else if(x.root < y.root) return -1;
-        else return 0;
+        if(x.root > y.root) return 1; // x comes after y 
+        else if(x.root < y.root) return -1; // x comes before y
+        else return 0; // same priority
     }
 }
 
