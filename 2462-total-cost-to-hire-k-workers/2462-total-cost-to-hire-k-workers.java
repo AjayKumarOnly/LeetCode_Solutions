@@ -1,37 +1,42 @@
 class Solution {
     public long totalCost(int[] costs, int k, int candidates) {
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> {
-            if (a[0] == b[0]) {
-                return a[1] - b[1];
+        int i = 0;
+        int j = costs.length - 1;
+        PriorityQueue<Integer> pq1 = new PriorityQueue<>();
+        PriorityQueue<Integer> pq2 = new PriorityQueue<>();
+
+        long ans = 0;
+        while (k-- > 0) {
+            while (pq1.size() < candidates && i <= j) {
+                pq1.offer(costs[i++]);
             }
-            return a[0] - b[0];});
-        for (int i = 0; i < candidates; i++) {
-            pq.offer(new int[] {costs[i], 0});
-        }
-        for (int i = Math.max(candidates, costs.length - candidates); i < costs.length; i++) {
-            pq.offer(new int[] {costs[i], 1});
-        }
+            while (pq2.size() < candidates && i <= j) {
+                pq2.offer(costs[j--]);
+            }
 
-        long answer = 0;
-        int nextHead = candidates;
-        int nextTail = costs.length - 1 - candidates;
+            int t1;
 
-        for (int i = 0; i < k; i++) {
-            int[] curWorker = pq.poll();
-            int curCost = curWorker[0], curSectionId = curWorker[1];
-            answer += curCost;
-            
-            if (nextHead <= nextTail) {
-                if (curSectionId == 0) {
-                    pq.offer(new int[]{costs[nextHead], 0});
-                    nextHead++;
-                } else {
-                    pq.offer(new int[]{costs[nextTail], 1});
-                    nextTail--;
-                }
+            if (pq1.size() > 0) {
+                t1 = pq1.peek();
+            } else {
+                t1 = Integer.MAX_VALUE;
+            }
+            int t2;
+
+            if (pq2.size() > 0) {
+                t2 = pq2.peek();
+            } else {
+                t2 = Integer.MAX_VALUE;
+            }
+
+            if (t1 <= t2) {
+                ans += t1;
+                pq1.poll();
+            } else {
+                ans += t2;
+                pq2.poll();
             }
         }
-
-        return answer;
+        return ans;
     }
 }
