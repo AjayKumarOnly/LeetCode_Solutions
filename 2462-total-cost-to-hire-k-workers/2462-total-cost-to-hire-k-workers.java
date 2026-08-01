@@ -1,68 +1,37 @@
-class Pair {
-    int cost;
-    int index;
-
-    Pair(int cost, int index) {
-        this.cost = cost;
-        this.index = index;
-    }
-}
-class PairCompare implements Comparator<Pair> {
-    public int compare(Pair a, Pair b) {
-        if (a.cost == b.cost) {
-            return a.index - b.index;
-        }
-        return a.cost - b.cost;
-    }
-}
 class Solution {
     public long totalCost(int[] costs, int k, int candidates) {
-        int n = costs.length;
-
-        PriorityQueue<Pair> left = new PriorityQueue<>(new PairCompare());
-        PriorityQueue<Pair> right = new PriorityQueue<>(new PairCompare());
-
-        int leftPtr = 0;
-        int rightPtr = n - 1;
-
-        while (leftPtr < candidates && leftPtr <= rightPtr) {
-            left.offer(new Pair(costs[leftPtr], leftPtr));
-            leftPtr++;
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> {
+            if (a[0] == b[0]) {
+                return a[1] - b[1];
+            }
+            return a[0] - b[0];});
+        for (int i = 0; i < candidates; i++) {
+            pq.offer(new int[] {costs[i], 0});
+        }
+        for (int i = Math.max(candidates, costs.length - candidates); i < costs.length; i++) {
+            pq.offer(new int[] {costs[i], 1});
         }
 
-        while (rightPtr >= n - candidates && rightPtr >= leftPtr) {
-            right.offer(new Pair(costs[rightPtr], rightPtr));
-            rightPtr--;
-        }
+        long answer = 0;
+        int nextHead = candidates;
+        int nextTail = costs.length - 1 - candidates;
 
-        long total = 0;
-
-        while (k > 0) {
-
-            if (right.isEmpty() ||
-                (!left.isEmpty() && left.peek().cost <= right.peek().cost)) {
-
-                Pair curr = left.poll();
-                total += curr.cost;
-
-                if (leftPtr <= rightPtr) {
-                    left.offer(new Pair(costs[leftPtr], leftPtr));
-                    leftPtr++;
-                }
-
-            } else {
-
-                Pair curr = right.poll();
-                total += curr.cost;
-
-                if (leftPtr <= rightPtr) {
-                    right.offer(new Pair(costs[rightPtr], rightPtr));
-                    rightPtr--;
+        for (int i = 0; i < k; i++) {
+            int[] curWorker = pq.poll();
+            int curCost = curWorker[0], curSectionId = curWorker[1];
+            answer += curCost;
+            
+            if (nextHead <= nextTail) {
+                if (curSectionId == 0) {
+                    pq.offer(new int[]{costs[nextHead], 0});
+                    nextHead++;
+                } else {
+                    pq.offer(new int[]{costs[nextTail], 1});
+                    nextTail--;
                 }
             }
-            k--;
         }
 
-        return total;
+        return answer;
     }
 }
