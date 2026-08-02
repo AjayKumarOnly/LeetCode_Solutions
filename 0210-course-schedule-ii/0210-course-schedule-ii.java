@@ -33,3 +33,5 @@ class Solution {
         return ind==numCourses ? res : new int[0];
     }
 } 
+// O(v+E)
+// O(v+E)
