@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
@@ -845,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Design
 |  |
@@ -950,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -1003,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 ## Data Stream
 |  |
 | ------- |
