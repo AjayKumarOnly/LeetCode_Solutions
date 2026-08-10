@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
 | [2685-count-the-number-of-complete-components](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0692-top-k-frequent-words) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -959,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2685-count-the-number-of-complete-components](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -1010,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2685-count-the-number-of-complete-components](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Data Stream
 |  |
@@ -1024,4 +1029,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
