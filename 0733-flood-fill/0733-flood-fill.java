@@ -12,7 +12,7 @@ class Solution {
         if(row >= 0  && row < n && col >= 0 && col < m && image[row][col] == initColor){
             image[row][col] = color;
             dfs(row+1,col,image,color,initColor); //down
-          dfs(row,col+1,image,color,initColor); // right
+            dfs(row,col+1,image,color,initColor); // right
             dfs(row-1,col,image,color,initColor); //up
             dfs(row,col-1,image,color,initColor); //left
         }
