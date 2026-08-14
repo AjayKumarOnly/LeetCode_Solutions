@@ -25,7 +25,7 @@ class Solution {
         int[] dy = { 0, 1, 0, -1 };
 
         if (row >= 0 && row < n && col < m && col >= 0 && grid[row][col] == '1') {
-            grid[row][col] = '2';
+            grid[row][col] = '.';
             for (int i = 0; i < 4; i++) {
                 dfs(row + dx[i], col + dy[i], grid);
             }
