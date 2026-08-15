@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1370-increasing-decreasing-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1446-consecutive-characters](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1446-consecutive-characters) |
 | [1544-make-the-string-great](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1544-make-the-string-great) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1370-increasing-decreasing-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1370-increasing-decreasing-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2248-intersection-of-multiple-arrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2248-intersection-of-multiple-arrays) |
