@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2029-stone-game-ix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2027-minimum-moves-to-convert-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2027-minimum-moves-to-convert-string) |
+| [2029-stone-game-ix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -744,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-increasing-decreasing-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2248-intersection-of-multiple-arrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -1019,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2029-stone-game-ix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1049,4 +1054,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
