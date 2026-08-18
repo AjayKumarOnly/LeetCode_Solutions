@@ -3,7 +3,7 @@ class Solution {
         Set<Integer> set = new HashSet<>();
         for(int i : nums) set.add(i);
 
-        int longest = 0;
+        int longest = 0; 
         for(int i : set){
             int cnt = 0;
             if(!set.contains(i-1)){
