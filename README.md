@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3379-transformed-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
