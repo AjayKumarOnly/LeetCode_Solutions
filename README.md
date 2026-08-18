@@ -1073,4 +1073,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
