@@ -1,12 +1,17 @@
 class Solution {
-    public boolean checkDivisibility(int n) {
-        String num = String.valueOf(n);
-        int sum = 0 , product = 1 ;
 
-        for(char c : num.toCharArray()){
-            sum += Character.getNumericValue(c);
-            product *= Character.getNumericValue(c);
+    public boolean checkDivisibility(int n) {
+        int digitSum = 0;
+        int digitProduct = 1;
+        int original = n;
+
+        while (n > 0) {
+            int digit = n % 10;
+            n /= 10;
+
+            digitSum += digit;
+            digitProduct *= digit;
         }
-        return n % (sum + product) == 0;
+        return original % (digitSum + digitProduct) == 0;
     }
 }
