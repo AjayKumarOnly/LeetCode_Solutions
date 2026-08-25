@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3637-trionic-array-i) |
 | [3660-jump-game-ix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3660-jump-game-ix) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
