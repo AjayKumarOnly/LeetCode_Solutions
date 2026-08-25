@@ -1,32 +1,24 @@
 class Solution {
-    public static int timeTaken(int[] arr, int mid){
-        int time = 0;
-        for(int i=0; i< arr.length; i++){
-            time += Math.ceil((double)arr[i]/mid);
-        }
-        return time;
-    }
     public int minEatingSpeed(int[] piles, int h) {
-        int n = piles.length;
-        if(n > h) return -1;
-        int low = 1 , high = -1;
-        for(int i=0;i<n;i++){
-            high = Math.max(high,piles[i]);
+        int left = 1 , right = 1;
+        for(int p : piles){
+            right = Math.max(right,p);
         }
-        int ans = high;
-        while(low <= high){
-            int mid = (low + high) / 2;
-            int time = timeTaken(piles,mid);
-            if(time <= h){
-                ans = mid;
-                high = mid -1;
-            }
-            else {
-                low = mid +1 ;
-            }
+        // taking the max of the piles arr ;
 
+        while(left <= right){
+            int mid = left + (right - left ) /2 ;
+            int timeTaken = 0;
+
+            for(int i : piles){
+                timeTaken += Math.ceil((double)i/mid);
+            }
+            if(timeTaken <= h){
+                right = mid - 1;
+            }else {
+                left = mid+1;
+            }
         }
-        return ans;
+        return left;
     }
-     
 }
