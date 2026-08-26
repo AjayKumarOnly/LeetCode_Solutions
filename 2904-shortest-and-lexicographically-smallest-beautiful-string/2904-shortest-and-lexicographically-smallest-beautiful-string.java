@@ -20,7 +20,7 @@ class Solution {
 
         for (String str : list) {
             if (str.length() < ans.length() ||
-                (str.length() == ans.length() && str.compareTo(ans) < 0)) {
+                (str.length() == ans.length() && ans.compareTo(str) > 0)) {
                 ans = str;
             }
         }
