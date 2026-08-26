@@ -1,52 +1,42 @@
-import java.util.*;
-
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-        List<Integer> result = new ArrayList<>();
-
-        int n = matrix.length, m = matrix[0].length;
-        int left = 0, top = 0, bottom = n - 1, right = m - 1;
+        int n = matrix.length , m = matrix[0].length;
+        int left = 0 , right = m-1 , top = 0 , bottom = n-1;
         int dir = 0;
+        List<Integer> list = new ArrayList<>();
 
-        while (left <= right && top <= bottom) {
-
-            switch (dir) {
-
-                case 0 -> { 
-                    // left -> right
-                    for (int i = left; i <= right; i++) {
-                        result.add(matrix[top][i]);
+        while(top <= bottom && left <= right) {
+            switch(dir){
+                case 0 ->{
+                    for(int i = left ; i <= right;i++){
+                        list.add(matrix[top][i]);
                     }
                     top++;
                 }
-
-                case 1 -> { 
-                    // top -> bottom
-                    for (int i = top; i <= bottom; i++) {
-                        result.add(matrix[i][right]);
+                case 1 ->{
+                    for(int i = top ; i <= bottom;i++){
+                        list.add(matrix[i][right]);
                     }
                     right--;
                 }
-
-                case 2 -> {
-                     // right -> left
-                    for (int i = right; i >= left; i--) {
-                        result.add(matrix[bottom][i]);
+                case 2 ->{
+                    for(int i = right ; i >= left;i--){
+                        list.add(matrix[bottom][i]);
                     }
                     bottom--;
                 }
-
-                case 3 -> { 
-                    // bottom -> top
-                    for (int i = bottom; i >= top; i--) {
-                        result.add(matrix[i][left]);
+                case 3 ->{
+                    for(int i = bottom ; i >= top;i--){
+                        list.add(matrix[i][left]);
                     }
                     left++;
                 }
             }
-
-            dir = (dir + 1) % 4;
+            dir =( dir + 1)% 4 ;
+            // to change the direction
         }
-        return result;
+        return list;
     }
 }
+// TC -> 0(n * m);
+// TC -> 0(n * m);
