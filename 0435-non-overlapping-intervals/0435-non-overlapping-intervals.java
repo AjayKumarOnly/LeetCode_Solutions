@@ -5,6 +5,7 @@ class Solution {
                 return a[1] - b[1]; // ascending order
             }
         });
+        // After Sorting : [[1,2],[2,3],[1,3],[3,4]]
         int remove = 0;
         int end = Integer.MIN_VALUE;
         for(int[] interval : intervals){
