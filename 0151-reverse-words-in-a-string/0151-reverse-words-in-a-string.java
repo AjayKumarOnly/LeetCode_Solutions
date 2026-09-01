@@ -15,6 +15,7 @@ class Solution {
                 }
         }
         if(!word.isEmpty()) st.push(word);
+        
         while(!st.isEmpty()){
             res += st.pop();
             if(!st.isEmpty()) res += " ";
