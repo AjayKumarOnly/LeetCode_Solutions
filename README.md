@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0908-smallest-range-i) |
 | [0912-sort-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
