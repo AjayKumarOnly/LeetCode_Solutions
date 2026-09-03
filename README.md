@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2248-intersection-of-multiple-arrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2733-neither-minimum-nor-maximum) |
