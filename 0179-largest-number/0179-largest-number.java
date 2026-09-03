@@ -6,6 +6,7 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             arr[i] = String.valueOf(nums[i]);
         }
+        // ["3","30","34","5","9"]
 
         Arrays.sort(arr, (a, b) -> (b + a).compareTo(a + b));
 
