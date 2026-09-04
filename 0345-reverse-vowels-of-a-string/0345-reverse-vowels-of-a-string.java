@@ -15,9 +15,9 @@ class Solution {
         return new String(arr);
     }
     private boolean isVowel(char v){
-            if(v == 'A' || v== 'E' || v =='I' || v == 'O' || v == 'U' || v == 'a' || v== 'e' || v == 'i' || v == 'o' || v == 'u' ) {
-                return true;
+            if("AEIOUaeiou".indexOf(v) == -1) {
+                return false;
             }
-            return false;
+            return true;
         }
 }
