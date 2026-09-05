@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0705-design-hashset) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
@@ -904,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -936,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Design
@@ -1047,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2685-count-the-number-of-complete-components](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
