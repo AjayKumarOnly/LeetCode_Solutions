@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1122-relative-sort-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1288-remove-covered-intervals) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
