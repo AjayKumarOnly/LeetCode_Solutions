@@ -1192,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Lifting
 |  |
