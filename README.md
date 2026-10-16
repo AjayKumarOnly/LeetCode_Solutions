@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3862-find-the-smallest-balanced-index](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3862-find-the-smallest-balanced-index) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3862-find-the-smallest-balanced-index](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3862-find-the-smallest-balanced-index) |
 | [3903-smallest-stable-index-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
