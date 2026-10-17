@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
