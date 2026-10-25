@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1122-relative-sort-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1254-number-of-closed-islands](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -955,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1861-rotating-the-box](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1861-rotating-the-box) |
@@ -986,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -1104,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1254-number-of-closed-islands](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
