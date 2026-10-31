@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2974-minimum-number-game](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2974-minimum-number-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1170,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Data Stream
 |  |
 | ------- |
@@ -1187,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## DP on Trees
 |  |
 | ------- |
