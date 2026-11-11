@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2574-left-and-right-sum-differences](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2765-longest-alternating-subarray](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2765-longest-alternating-subarray) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2540-minimum-common-value](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-minimize-string-length](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2716-minimize-string-length) |
 | [2784-check-if-array-is-good](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -763,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2248-intersection-of-multiple-arrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
