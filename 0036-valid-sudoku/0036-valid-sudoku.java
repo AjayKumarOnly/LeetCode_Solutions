@@ -4,8 +4,8 @@ class Solution {
         for(int i = 0; i < 9; i++){
             for(int j = 0; j < 9; j++){
                 if(board[i][j] != '.'){
-                    String row = board[i][j] + "row" + i;
-                    String col = board[i][j] + "col" + j;
+                    String row = board[i][j] + "row" + i; // 5row0
+                    String col = board[i][j] + "col" + j;//6col1
                     String box = board[i][j] + "box" + (i/3) + "and" + (j/3); //  ' / 3' used to find which box the num presents
 
                     mpp.put(row,mpp.getOrDefault(row,0)+1);
