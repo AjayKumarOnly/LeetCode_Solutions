@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3523-make-array-non-decreasing](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3523-make-array-non-decreasing) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-k-items-with-the-maximum-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3523-make-array-non-decreasing](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3523-make-array-non-decreasing) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -962,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3523-make-array-non-decreasing](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3523-make-array-non-decreasing) |
 ## String Matching
 |  |
 | ------- |
@@ -1049,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
+| [3523-make-array-non-decreasing](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3523-make-array-non-decreasing) |
 ## Queue
 |  |
 | ------- |
