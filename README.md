@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1331-rank-transform-of-an-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1872-stone-game-viii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1872-stone-game-viii) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -1040,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Randomized
 |  |
 | ------- |
@@ -1213,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Topological Sort
 |  |
 | ------- |
