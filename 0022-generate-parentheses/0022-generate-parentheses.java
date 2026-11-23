@@ -1,24 +1,21 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        List<String> res = new ArrayList<>();
-        generate(res,0,0,"",n);
-        return res;
+        List<String> list = new ArrayList();
+        generate(list,0,0,"",n);
+        return list;
     }
-    private static void generate(List<String> res, int open,int close,String pair,int max){
-        if(pair.length() == max*2){
-            System.out.println(pair);   
-            res.add(pair);
+    private void generate(List<String> list , int open , int close , String pair , int n){
+        if(pair.length() == n*2){
+            list.add(pair);
             return;
         }
-    // max == n 
-        if(open < max){
-           // System.out.println("Left Side Called" + pair + " ");
-              generate(res,open+1,close,pair + "(",max);
-        }
-        if(open > close){
-          //  System.out.println("Right Side Called" + pair + " ");
+        if(open < n){
+            generate(list,open+1,close,pair+"(",n);
 
-            generate(res,open,close+1,pair + ")",max);
+        }
+         if(open > close){
+            generate(list,open,close+1,pair+")",n);
+            
         }
     }
 }
