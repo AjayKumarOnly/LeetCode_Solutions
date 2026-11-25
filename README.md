@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2540-minimum-common-value) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3934-smallest-unique-subarray](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3934-smallest-unique-subarray](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1193,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/0705-design-hashset) |
+| [3934-smallest-unique-subarray](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1303,4 +1307,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/AjayKumarOnly/LeetCode_Solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
